@@ -146,7 +146,7 @@ export default function LandingPage() {
       <ContactSplitForm
       useInvertedBackground={false}
       title="Stop By and Say Hello"
-      description="Located in the heart of Koosharem, Utah. We are open and ready to welcome you."
+      description="We are located at 120 Main St, Koosharem, UT 84744. Come visit us in the heart of the valley."
       inputs={[
         { name: "name", type: "text", placeholder: "Your Name" },
         { name: "email", type: "email", placeholder: "Your Email" },
@@ -164,7 +164,7 @@ export default function LandingPage() {
       columns={[
         {
           title: "Store Info",          items: [
-            { label: "Koosharem, Utah", href: "#" },
+            { label: "120 Main St, Koosharem, UT", href: "#" },
             { label: "4.7 Star Service", href: "#" },
           ],
         },
