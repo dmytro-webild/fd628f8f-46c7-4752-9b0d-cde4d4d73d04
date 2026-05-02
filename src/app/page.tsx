@@ -68,27 +68,27 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "h1",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-girl-thinking-library_23-2148727803.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-girl-thinking-library_23-2148727803.jpg?_wi=1",
           imageAlt: "Historic interior",
         },
         {
           id: "h2",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-happy-women-holding-ice-cream-amusement-park_23-2147911706.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-happy-women-holding-ice-cream-amusement-park_23-2147911706.jpg?_wi=1",
           imageAlt: "Store exterior",
         },
         {
           id: "h3",
-          imageSrc: "http://img.b2bpic.net/free-photo/black-cup-food-new-year-decorations-are-table-room-new-year-eve-concept_132075-11339.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/black-cup-food-new-year-decorations-are-table-room-new-year-eve-concept_132075-11339.jpg?_wi=1",
           imageAlt: "Local goods",
         },
         {
           id: "h4",
-          imageSrc: "http://img.b2bpic.net/free-photo/elevated-view-hat-map-passport-pen-wooden-surface_23-2147837137.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elevated-view-hat-map-passport-pen-wooden-surface_23-2147837137.jpg?_wi=1",
           imageAlt: "Post office",
         },
         {
           id: "h5",
-          imageSrc: "http://img.b2bpic.net/free-photo/people-spending-time-gas-station_23-2150440250.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/people-spending-time-gas-station_23-2150440250.jpg?_wi=1",
           imageAlt: "Gas pumps",
         },
         {
@@ -243,7 +243,7 @@ export default function LandingPage() {
           quote: "A true hidden gem. Everything you need and the best folks around.",
           tag: "Road Traveler",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-joyful-woman-holding-mobile-phone_171337-4024.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-girl-thinking-library_23-2148727803.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-girl-thinking-library_23-2148727803.jpg?_wi=2",
           imageAlt: "happy road traveler smiling",
         },
         {
@@ -254,7 +254,7 @@ export default function LandingPage() {
           quote: "Reminds me of how stores used to be. Friendly and very convenient.",
           tag: "Local Resident",
           avatarSrc: "http://img.b2bpic.net/free-photo/funny-girl-with-curly-hair-taking-selfie-sitting-restaurant-s-wooden-table_651396-869.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-happy-women-holding-ice-cream-amusement-park_23-2147911706.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-happy-women-holding-ice-cream-amusement-park_23-2147911706.jpg?_wi=2",
           imageAlt: "happy road traveler smiling",
         },
         {
@@ -265,7 +265,7 @@ export default function LandingPage() {
           quote: "We stop here every single time we drive through. Love the atmosphere.",
           tag: "Repeat Traveler",
           avatarSrc: "http://img.b2bpic.net/free-photo/woman-hitch-hiking-car-mountains_23-2148785870.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/black-cup-food-new-year-decorations-are-table-room-new-year-eve-concept_132075-11339.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/black-cup-food-new-year-decorations-are-table-room-new-year-eve-concept_132075-11339.jpg?_wi=2",
           imageAlt: "happy road traveler smiling",
         },
         {
@@ -276,7 +276,7 @@ export default function LandingPage() {
           quote: "Gas, food, and friendly conversation. Can't beat that.",
           tag: "Adventure Seeker",
           avatarSrc: "http://img.b2bpic.net/free-photo/full-shot-couple-spending-time-outdoors_23-2150494459.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/elevated-view-hat-map-passport-pen-wooden-surface_23-2147837137.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elevated-view-hat-map-passport-pen-wooden-surface_23-2147837137.jpg?_wi=2",
           imageAlt: "happy road traveler smiling",
         },
         {
@@ -287,7 +287,7 @@ export default function LandingPage() {
           quote: "The heart of Koosharem. So glad they are here.",
           tag: "Local Patron",
           avatarSrc: "http://img.b2bpic.net/free-photo/merry-young-adult-enjoying-christmas-conversation-video-call-room-decorated-festivity-celebration-talking-woman-preparing-drink-wine-kitchen-with-joyful-ornaments_482257-28400.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/people-spending-time-gas-station_23-2150440250.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/people-spending-time-gas-station_23-2150440250.jpg?_wi=2",
           imageAlt: "happy road traveler smiling",
         },
       ]}
